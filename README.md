@@ -19,8 +19,8 @@
 
 <br/><br/>
 
-<a href="https://visitcount.itsvg.in" target="_blank" rel="noopener noreferrer"><img src="https://visitcount.itsvg.in/api?id=cekwedike&icon=6&color=13" /></a>
-<img src="https://img.shields.io/github/followers/cekwedike?style=flat&color=d1df4b&labelColor=0d0d0d&label=followers" />
+<img src="https://img.shields.io/github/followers/cekwedike?style=for-the-badge&logo=github&color=d1df4b&labelColor=0d0d0d&label=GitHub+Followers" />
+<img src="https://komarev.com/ghpvc/?username=cekwedike&style=for-the-badge&color=d1df4b&labelColor=0d0d0d&label=Profile+Views" />
 
 </div>
 
@@ -180,6 +180,37 @@ Not just coordinating. Building the whole system from scratch.
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+## 🗂 Project and Program Management
+
+<table>
+<tr>
+<td valign="top" width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" />
+</td>
+<td valign="top" width="65%">
+
+I do not just build things. I scope them, resource them, ship them, and keep them alive after launch.
+
+Across SIRYUS Creative Media, THRiVE Hub, and my freelance contracts, I have run projects end to end. That means briefing, timelines, stakeholder management, documentation, delegation, and delivery. Not just "coordinating" but owning the outcome.
+
+**What that looks like in practice:**
+
+Designed and ran the LaunchPad Fellowship end to end. 70+ applicants screened, 20 fellows onboarded, facilitators coordinated, sessions facilitated, and ATLAS built and shipped as the learning infrastructure.
+
+Led the ground-up rebuild of siryushub.com and beyondepilepsyafrica.org from brief to deployment, managing architecture decisions, content migration, analytics setup, and DNS configuration.
+
+Managed full music rollout campaigns covering release strategy, Spotify editorial pitching, content calendars, distribution through The Orchard, and platform-by-platform launch sequencing.
+
+Built and delivered a custom LMS (ATLAS) under tight timelines using a vibe-coding workflow across Claude Code and VSCode. Also served as Marketing Manager at CX University, running email campaigns, social media content, motion graphics, and full campaign strategy for program launches.
+
+**Tools I actually use to manage work:**
+
+Notion, GitHub Projects, Google Workspace, Formspree, Sanity Studio, Vercel, Render, and whatever else gets the job done.
+
+</td>
+</tr>
+</table>
 
 ## 💻 Tech Stack
 
