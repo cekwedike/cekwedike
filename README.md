@@ -48,7 +48,7 @@ I write words that make people buy things. I build software that solves real pro
 
 People call it multi-tasking. I call it Tuesday.
 
-Right now I'm the **Founder of [Siryus Creative Media Ltd](https://siryushub.com)**, a music management and creative company operating across Africa. I'm also a **Top-Rated copywriter on Upwork**, a **Program Coordinator at [THRiVE Hub](https://thrivehub.ng)**, and a **BSc Software Engineering student at African Leadership University** here in Kigali.
+Right now I'm the **Founder of [Siryus Creative Media Ltd](https://siryushub.com)**, a music management and creative company operating across Africa. I'm also a **Top-Rated copywriter on Upwork**, a **Program Coordinator at [THRiVE Hub](https://thrivehub.ng)**, and a **BSc Software Engineering student, graduated in 2026, at African Leadership University** here in Kigali.
 
 Faith runs through everything I do. So does One Piece. In that order.
 
