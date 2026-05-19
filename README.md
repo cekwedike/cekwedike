@@ -5,27 +5,28 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=D1DF4B&center=true&vCenter=true&multiline=false&width=750&height=45&lines=I+write+copy+that+converts.;I+build+software+that+works.;I+run+programs+that+change+lives.;I+manage+artists+across+Africa.;Currently+cooking+something+new...%F0%9F%8D%B3" alt="Typing SVG" />
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=D1DF4B&center=true&vCenter=true&multiline=false&width=750&height=45&lines=I+write+copy+that+converts.;I+build+software+that+works.;I+run+programs+that+change+lives.;I+manage+artists+across+Africa.;Graduating+July+2026.+What%27s+next%3F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/chee.dii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cheediwrites)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-%236fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010cd15bc68db1f36c)
-[![Substack](https://img.shields.io/badge/Substack-Random%20Thoughts-%23FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@cheedii)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@chee.dii)
+<a href="https://instagram.com/chee.dii" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/cheediwrites" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~010cd15bc68db1f36c" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-%236fda44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://substack.com/@cheedii" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Substack-Random%20Thoughts-%23FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+<a href="https://tiktok.com/@chee.dii" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
-[![](https://visitcount.itsvg.in/api?id=cekwedike&icon=6&color=13)](https://visitcount.itsvg.in)
-![GitHub followers](https://img.shields.io/github/followers/cekwedike?style=flat&color=d1df4b&labelColor=0d0d0d&label=followers)
+<a href="https://visitcount.itsvg.in" target="_blank" rel="noopener noreferrer"><img src="https://visitcount.itsvg.in/api?id=cekwedike&icon=6&color=13" /></a>
+<img src="https://img.shields.io/github/followers/cekwedike?style=flat&color=d1df4b&labelColor=0d0d0d&label=followers" />
 
 </div>
 
 <br/>
 
+<!-- Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cekwedike/cekwedike/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cekwedike/cekwedike/output/github-contribution-grid-snake.svg" />
@@ -36,9 +37,11 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300px" />
+<!-- WHO IS CHEEDII -->
 
-## 👋🏾 &nbsp;So. Who is Cheedii?
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="290px" />
+
+## 👋🏾 So. Who is Cheedii?
 
 Glad you asked.
 
@@ -48,11 +51,11 @@ I write words that make people buy things. I build software that solves real pro
 
 People call it multi-tasking. I call it Tuesday.
 
-Right now I'm the **Founder of [Siryus Creative Media Ltd](https://siryushub.com)**, a music management and creative company operating across Africa. I'm also a **Top-Rated copywriter on Upwork**, a **Program Coordinator at [THRiVE Hub](https://thrivehub.ng)**, and a **BSc Software Engineering student, graduated in 2026, at African Leadership University** here in Kigali.
+Right now I'm the **Founder of <a href="https://siryushub.com" target="_blank" rel="noopener noreferrer">Siryus Creative Media Ltd</a>**, a music management and creative company operating across Africa. I'm also a **Top-Rated copywriter on Upwork**, a **Program Coordinator at <a href="https://thrivehub.ng" target="_blank" rel="noopener noreferrer">THRiVE Hub</a>**, and finishing my **BSc Software Engineering degree at African Leadership University** in Kigali. Graduating July 2026.
 
 Faith runs through everything I do. So does One Piece. In that order.
 
-📍 Kigali, Rwanda &nbsp;&nbsp; 📧 cheediwrites@gmail.com
+📍 Kigali, Rwanda &nbsp;&nbsp; 📧 <a href="mailto:cheediwrites@gmail.com">cheediwrites@gmail.com</a> &nbsp;|&nbsp; <a href="mailto:chekwedike@gmail.com">chekwedike@gmail.com</a>
 
 <br clear="right"/>
 
@@ -60,54 +63,58 @@ Faith runs through everything I do. So does One Piece. In that order.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 🚀 &nbsp;Things I'm Building Right Now
+<!-- WHAT I'M BUILDING -->
+## 🚀 Things I'm Building Right Now
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260px" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380px" />
+</div>
 
 <br/>
 
-Someone once told me I had too many projects open.
+> Someone once told me I had too many projects open. They were right. I opened another one.
 
-They were right. I opened another one.
+<br/>
 
-&nbsp;&nbsp;&nbsp; 🎮 **[ATLAS](https://launchpadatlas.vercel.app)** — A gamified LMS built for the LaunchPad Fellowship at THRiVE Hub. Points, badges, leaderboards, anti-skimming logic. Real stakes, real learning.
+🎮 &nbsp;**<a href="https://launchpadatlas.vercel.app" target="_blank" rel="noopener noreferrer">ATLAS</a>** — A gamified LMS I built for the LaunchPad Fellowship at THRiVE Hub. Points, badges, leaderboards, anti-skimming logic. Real stakes, real learning. Built with Node/Express on Vercel.
 
-&nbsp;&nbsp;&nbsp; 🌐 **[Siryus Hub](https://siryushub.com)** — The full digital home of Siryus Creative Media. Built ground-up in Astro v6, Sanity CMS, TypeScript and deployed on Vercel.
+🌐 &nbsp;**<a href="https://siryushub.com" target="_blank" rel="noopener noreferrer">Siryus Hub</a>** — The full digital home of Siryus Creative Media. Built ground-up in Astro v6, Sanity CMS, TypeScript and deployed on Vercel.
 
-&nbsp;&nbsp;&nbsp; 🦚 **PAVO** — A smart portfolio and booking platform for independent African artists. Still in the oven. Going to be good.
+🦚 &nbsp;**PAVO** — A smart platform for creative management and operations across Africa. Still in the oven. Going to be something special.
 
-&nbsp;&nbsp;&nbsp; 🎵 **[MusicSim](https://musicsim.net)** — A gamified music business education platform built in React. Learn the business of music by playing it.
+🎵 &nbsp;**<a href="https://musicsim.net" target="_blank" rel="noopener noreferrer">MusicSim</a>** — A gamified music business education platform built in React. Learn the business of music by playing it.
 
-&nbsp;&nbsp;&nbsp; 📊 **Orion** — Internal analytics and campaign tracking for SIRYUS A.M operations.
+✝️ &nbsp;**<a href="https://siryushub.com/arc" target="_blank" rel="noopener noreferrer">ARC.</a>** — Ascent. Refuge. Collective. A community for independent Christian creatives across music, film, poetry, dance and design. Structure, belonging, and room to grow without the pressure to perform before you are ready. An initiative of Siryus Creative Media Ltd, operating from Nigeria and Rwanda.
 
-&nbsp;&nbsp;&nbsp; 🤖 **Sentry** — An AI content scheduling and distribution engine. Still cooking.
-
-&nbsp;&nbsp;&nbsp; 🔧 **...and a pletora of other softwares currently in development.**
-
-<br clear="left"/>
+🔧 &nbsp;**...and a pletora of other softwares currently in development.**
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 🎵 &nbsp;SIRYUS A.M — The Collective
+<!-- SIRYUS AM -->
+## 🎵 SIRYUS A.M — The Collective
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" />
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250px"/>
+<br/>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="240px"/>
 
 Not just a management company. A creative machine.
 
 **SIRYUS A.M** is where music meets business strategy in Africa. We handle rollouts, editorial pitching, brand identity, digital distribution and everything in between. We treat artist careers like startups, because that is exactly what they are.
 
+We also run community and cultural initiatives including **The Indiba Project Series**, **Acoustic Rwanda**, and **The Abditory Sessions**, all designed to nurture and celebrate creative culture on the continent.
+
 Based in Kigali. Operating across Africa. Building for the long game.
 
 <br/>
 
-[![SIRYUS Instagram](https://img.shields.io/badge/Follow%20SIRYUS-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/siryus_am/)
-[![SIRYUS Hub](https://img.shields.io/badge/Visit%20SIRYUS%20Hub-%23d1df4b?style=for-the-badge&logo=vercel&logoColor=black)](https://siryushub.com)
+<a href="https://www.instagram.com/siryus.am/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Follow%20SIRYUS-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://siryushub.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit%20SIRYUS%20Hub-%23d1df4b?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 
 <br clear="right"/>
 
@@ -115,9 +122,10 @@ Based in Kigali. Operating across Africa. Building for the long game.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## ✍🏾 &nbsp;The Writing Side
+<!-- THE WRITING SIDE -->
+## ✍🏾 The Writing Side
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="250px"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="240px"/>
 
 Most copywriters write for the algorithm.
 
@@ -125,9 +133,9 @@ I write for the person reading.
 
 That is the difference. And that is why clients keep coming back.
 
-Five years on Upwork. Top-Rated. Long-term retainers with brands across the US, Canada and Africa. I write email sequences, sales pages, landing pages, campaign copy and program decks. I also do SEO content and translation in English and Canadian French.
+Six years of direct-response copywriting. Top-Rated on Upwork. Long-term retainers with brands across the US, Canada and Africa. I write email sequences, sales pages, landing pages, campaign copy and program decks. I also do SEO content and translation in English and Canadian French.
 
-And when I am done with client work, I write for myself over at **[Random Thoughts](https://substack.com/@cheedii)** on Substack. Faith. Life. No filter.
+And when I am done with client work, I write for myself over at **<a href="https://substack.com/@cheedii" target="_blank" rel="noopener noreferrer">Random Thoughts</a>** on Substack. Faith. Life. No filter.
 
 <br clear="right"/>
 
@@ -135,15 +143,16 @@ And when I am done with client work, I write for myself over at **[Random Though
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 🛠 &nbsp;THRiVE Hub and the LaunchPad Fellowship
+<!-- THRIVE HUB -->
+## 🛠 THRiVE Hub and the LaunchPad Fellowship
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="240px"/>
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="230px"/>
 
 <br/>
 
 I help run a fellowship that screens hundreds of applicants to find the ones who are ready to go.
 
-At [THRiVE Hub](https://thrivehub.ng), I serve as **Program Coordinator and Team Lead of Programs Management**. I designed and facilitated sessions for the LaunchPad Fellowship, onboarded 20 fellows from a pool of 70+ applicants, and built ATLAS, the gamified LMS that powers the entire learning experience.
+At <a href="https://thrivehub.ng" target="_blank" rel="noopener noreferrer">THRiVE Hub</a>, I serve as **Program Coordinator and Team Lead of Programs Management**. I designed and facilitated sessions for the LaunchPad Fellowship, onboarded 20 fellows from a pool of 70+ applicants, and built ATLAS, the gamified LMS that powers the entire learning experience.
 
 Not just coordinating. Building the whole system from scratch.
 
@@ -153,58 +162,68 @@ Not just coordinating. Building the whole system from scratch.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 💻 &nbsp;Tech Stack
+<!-- TECH STACK -->
+## 💻 Tech Stack
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380px" />
+
+<br/><br/>
+
 **Languages I actually use**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/><br/>
 
 **Frameworks and libraries**
 
-![Astro](https://img.shields.io/badge/astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+<br/><br/>
 
 **CMS, databases and cloud**
 
-![Sanity](https://img.shields.io/badge/Sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="https://img.shields.io/badge/Sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+
+<br/><br/>
 
 **Tools and platforms**
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
 
 **Marketing and ops**
 
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=Mailchimp&logoColor=black)
-![Zoho](https://img.shields.io/badge/Zoho-C8202A?style=for-the-badge&logo=zoho&logoColor=white)
-![Keap](https://img.shields.io/badge/Keap-19C777?style=for-the-badge&logo=keap&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=Mailchimp&logoColor=black" />
+<img src="https://img.shields.io/badge/Zoho-C8202A?style=for-the-badge&logo=zoho&logoColor=white" />
+<img src="https://img.shields.io/badge/Keap-19C777?style=for-the-badge&logo=keap&logoColor=white" />
+<img src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" />
 
 </div>
 
@@ -212,19 +231,20 @@ Not just coordinating. Building the whole system from scratch.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 📊 &nbsp;GitHub Stats
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cekwedike&bg_color=0d1117&color=d1df4b&line=d1df4b&point=ffffff&area=true&area_color=d1df4b&hide_border=true" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cekwedike&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=d1df4b&text_color=7a8899&icon_color=d1df4b" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cekwedike&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=d1df4b&text_color=7a8899" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cekwedike&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=d1df4b&text_color=7a8899&icon_color=d1df4b" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cekwedike&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=d1df4b&text_color=7a8899" height="165"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cekwedike&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=d1df4b&ring=d1df4b&fire=ff6b6b&currStreakLabel=d1df4b&sideLabels=7a8899&dates=7a8899" width="55%"/>
 
@@ -238,9 +258,10 @@ Not just coordinating. Building the whole system from scratch.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## ⚡ &nbsp;The Real Stuff
+<!-- FUN FACTS -->
+## ⚡ The Real Stuff
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="260px"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="255px"/>
 
 ```yaml
 name       : Chidiebere "Cheedii" Ekwedike
@@ -278,7 +299,7 @@ open_to:
 
 <div align="center">
 
-### ✍🏾 &nbsp;Today's Dev Quote
+### ✍🏾 Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
@@ -287,11 +308,12 @@ open_to:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 📬 &nbsp;Let's Talk
+<!-- CONTACT -->
+## 📬 Let's Talk
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="280px"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="260px"/>
 
 <br/>
 
@@ -303,10 +325,10 @@ Let's get into it.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email%20Me-cheediwrites%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheediwrites@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cheediwrites)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-%236fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010cd15bc68db1f36c)
-[![SIRYUS](https://img.shields.io/badge/SIRYUS%20Hub-Visit-%23d1df4b?style=for-the-badge&logo=vercel&logoColor=black)](https://siryushub.com)
+<a href="mailto:cheediwrites@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email%20Me-cheediwrites%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/cheediwrites" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~010cd15bc68db1f36c" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-%236fda44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://siryushub.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SIRYUS%20Hub-Visit-%23d1df4b?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 
 <br/><br/>
 
