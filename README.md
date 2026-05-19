@@ -26,7 +26,6 @@
 
 <br/>
 
-<!-- Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cekwedike/cekwedike/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cekwedike/cekwedike/output/github-contribution-grid-snake.svg" />
@@ -37,33 +36,37 @@
 
 ---
 
-<!-- WHO IS CHEEDII -->
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="290px" />
-
 ## 👋🏾 So. Who is Cheedii?
+
+<table>
+<tr>
+<td valign="top" width="65%">
 
 Glad you asked.
 
-I'm a Nigerian creative living in Kigali, Rwanda, doing about five things at once and somehow making all of them work.
+I am a Nigerian creative living in Kigali, Rwanda, doing about five things at once and somehow making all of them work.
 
-I write words that make people buy things. I build software that solves real problems. I manage artists who deserve to be heard. I run programs that put young people on a path they didn't know was possible.
+I write words that make people buy things. I build software that solves real problems. I manage artists who deserve to be heard. I run programs that put young people on a path they did not know was possible.
 
 People call it multi-tasking. I call it Tuesday.
 
-Right now I'm the **Founder of <a href="https://siryushub.com" target="_blank" rel="noopener noreferrer">Siryus Creative Media Ltd</a>**, a music management and creative company operating across Africa. I'm also a **Top-Rated copywriter on Upwork**, a **Program Coordinator at <a href="https://thrivehub.ng" target="_blank" rel="noopener noreferrer">THRiVE Hub</a>**, and finishing my **BSc Software Engineering degree at African Leadership University** in Kigali. Graduating July 2026.
+Right now I am the **Founder of <a href="https://siryushub.com" target="_blank" rel="noopener noreferrer">Siryus Creative Media Ltd</a>**, a music management and creative company operating across Africa. I am also a **Top-Rated copywriter on Upwork**, a **Program Coordinator at <a href="https://thrivehub.ng" target="_blank" rel="noopener noreferrer">THRiVE Hub</a>**, and finishing my **BSc Software Engineering degree at African Leadership University** here in Kigali. Graduating July 2026.
 
 Faith runs through everything I do. So does One Piece. In that order.
 
 📍 Kigali, Rwanda &nbsp;&nbsp; 📧 <a href="mailto:cheediwrites@gmail.com">cheediwrites@gmail.com</a> &nbsp;|&nbsp; <a href="mailto:chekwedike@gmail.com">chekwedike@gmail.com</a>
 
-<br clear="right"/>
+</td>
+<td valign="top" width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- WHAT I'M BUILDING -->
 ## 🚀 Things I'm Building Right Now
 
 <div align="center">
@@ -76,15 +79,15 @@ Faith runs through everything I do. So does One Piece. In that order.
 
 <br/>
 
-🎮 &nbsp;**<a href="https://launchpadatlas.vercel.app" target="_blank" rel="noopener noreferrer">ATLAS</a>** — A gamified LMS I built for the LaunchPad Fellowship at THRiVE Hub. Points, badges, leaderboards, anti-skimming logic. Real stakes, real learning. Built with Node/Express on Vercel.
+🎮 &nbsp;**<a href="https://launchpadatlas.vercel.app" target="_blank" rel="noopener noreferrer">ATLAS</a>** &nbsp;A gamified LMS built for the LaunchPad Fellowship at THRiVE Hub. Points, badges, leaderboards, anti-skimming logic. Real stakes, real learning. Built with Node/Express on Vercel.
 
-🌐 &nbsp;**<a href="https://siryushub.com" target="_blank" rel="noopener noreferrer">Siryus Hub</a>** — The full digital home of Siryus Creative Media. Built ground-up in Astro v6, Sanity CMS, TypeScript and deployed on Vercel.
+🌐 &nbsp;**<a href="https://siryushub.com" target="_blank" rel="noopener noreferrer">Siryus Hub</a>** &nbsp;The full digital home of Siryus Creative Media. Built ground-up in Astro v6, Sanity CMS, TypeScript and deployed on Vercel.
 
-🦚 &nbsp;**PAVO** — A smart platform for creative management and operations across Africa. Still in the oven. Going to be something special.
+🦚 &nbsp;**<a href="https://pavocreate.com" target="_blank" rel="noopener noreferrer">PAVO</a>** &nbsp;A social publishing platform that adapts your content for every platform natively. One source, every feed. Instagram, TikTok, LinkedIn, X, Threads, YouTube, Facebook. Currently on waitlist.
 
-🎵 &nbsp;**<a href="https://musicsim.net" target="_blank" rel="noopener noreferrer">MusicSim</a>** — A gamified music business education platform built in React. Learn the business of music by playing it.
+🎵 &nbsp;**<a href="https://musicsim.net" target="_blank" rel="noopener noreferrer">MusicSim</a>** &nbsp;A gamified music business education platform built in React. Learn the business of music by playing it.
 
-✝️ &nbsp;**<a href="https://siryushub.com/arc" target="_blank" rel="noopener noreferrer">ARC.</a>** — Ascent. Refuge. Collective. A community for independent Christian creatives across music, film, poetry, dance and design. Structure, belonging, and room to grow without the pressure to perform before you are ready. An initiative of Siryus Creative Media Ltd, operating from Nigeria and Rwanda.
+✝️ &nbsp;**<a href="https://siryushub.com/arc" target="_blank" rel="noopener noreferrer">ARC.</a>** &nbsp;Ascent. Refuge. Collective. A community for independent Christian creatives across music, film, poetry, dance and design. Structure, belonging, and room to grow without the pressure to perform before you are ready.
 
 🔧 &nbsp;**...and a pletora of other softwares currently in development.**
 
@@ -92,8 +95,7 @@ Faith runs through everything I do. So does One Piece. In that order.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- SIRYUS AM -->
-## 🎵 SIRYUS A.M — The Collective
+## 🎵 SIRYUS A.M: The Collective
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" />
@@ -101,7 +103,9 @@ Faith runs through everything I do. So does One Piece. In that order.
 
 <br/>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="240px"/>
+<table>
+<tr>
+<td valign="top" width="65%">
 
 Not just a management company. A creative machine.
 
@@ -116,16 +120,25 @@ Based in Kigali. Operating across Africa. Building for the long game.
 <a href="https://www.instagram.com/siryus.am/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Follow%20SIRYUS-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://siryushub.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit%20SIRYUS%20Hub-%23d1df4b?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 
-<br clear="right"/>
+</td>
+<td valign="top" width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- THE WRITING SIDE -->
 ## ✍🏾 The Writing Side
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="240px"/>
+<table>
+<tr>
+<td valign="top" width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100%" />
+</td>
+<td valign="top" width="65%">
 
 Most copywriters write for the algorithm.
 
@@ -137,18 +150,19 @@ Six years of direct-response copywriting. Top-Rated on Upwork. Long-term retaine
 
 And when I am done with client work, I write for myself over at **<a href="https://substack.com/@cheedii" target="_blank" rel="noopener noreferrer">Random Thoughts</a>** on Substack. Faith. Life. No filter.
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- THRIVE HUB -->
 ## 🛠 THRiVE Hub and the LaunchPad Fellowship
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="230px"/>
-
-<br/>
+<table>
+<tr>
+<td valign="top" width="65%">
 
 I help run a fellowship that screens hundreds of applicants to find the ones who are ready to go.
 
@@ -156,13 +170,17 @@ At <a href="https://thrivehub.ng" target="_blank" rel="noopener noreferrer">THRi
 
 Not just coordinating. Building the whole system from scratch.
 
-<br clear="left"/>
+</td>
+<td valign="top" width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- TECH STACK -->
 ## 💻 Tech Stack
 
 <div align="center">
@@ -231,7 +249,6 @@ Not just coordinating. Building the whole system from scratch.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -258,10 +275,11 @@ Not just coordinating. Building the whole system from scratch.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- FUN FACTS -->
 ## ⚡ The Real Stuff
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="255px"/>
+<table>
+<tr>
+<td valign="top" width="65%">
 
 ```yaml
 name       : Chidiebere "Cheedii" Ekwedike
@@ -291,7 +309,12 @@ open_to:
   - Good jollof rice recommendations
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -308,22 +331,20 @@ open_to:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<!-- CONTACT -->
 ## 📬 Let's Talk
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="260px"/>
 
-<br/>
+<br/><br/>
 
-You need copy that sells. I write it.
-You need a product that works. I build it.
-You have an artist with real talent. I take them seriously.
-
+You need copy that sells. I write it.<br/>
+You need a product that works. I build it.<br/>
+You have an artist with real talent. I take them seriously.<br/><br/>
 Let's get into it.
 
-<br/>
+<br/><br/>
 
 <a href="mailto:cheediwrites@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email%20Me-cheediwrites%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/cheediwrites" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
