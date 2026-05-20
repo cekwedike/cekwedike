@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0f1923,100:0d1117&height=220&section=header&text=Chidiebere%20Ekwedike&fontSize=50&fontColor=d1df4b&fontAlignY=40&desc=aka%20Cheedii%20%7C%20Kigali%2C%20Rwanda%20%F0%9F%87%B7%F0%9F%87%BC&descSize=17&descAlignY=62&descColor=7a8899&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0f1923,100:0d1117&height=220&section=header&text=Chidiebere%20Ekwedike&fontSize=50&fontColor=d1df4b&fontAlignY=40&C&descSize=17&descAlignY=62&descColor=7a8899&animation=fadeIn" width="100%" />
 
 <br/>
 
