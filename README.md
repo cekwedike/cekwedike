@@ -1,6 +1,11 @@
 <!-- HEADER -->
 <div align="center">
 
+[![Now playing on Spotify](/badge/383a54b9c7fb3b298cc8516a7da48bb3bad543cc.svg)](/badge/383a54b9c7fb3b298cc8516a7da48bb3bad543cc/open)
+<sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0f1923,100:0d1117&height=220&section=header&text=Chidiebere%20Ekwedike&fontSize=50&fontColor=d1df4b&fontAlignY=40&C&descSize=17&descAlignY=62&descColor=7a8899&animation=fadeIn" width="100%" />
 
 <br/>
